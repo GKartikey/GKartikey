@@ -1,4 +1,4 @@
-# Hi, I'm Kartikey Gupta 👋
+# Hi, I'm Kartikey 👋
 
 **Computer Science Student | Data, AI & Software Projects**
 

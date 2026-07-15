@@ -49,4 +49,4 @@ Applied AI · Data & Analytics · Software Systems · Computer Vision
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/kartikey-gupta-646563226)
+[LinkedIn](https://www.linkedin.com/in/kartikey-gupta-646536226)

@@ -6,24 +6,6 @@ B.Tech CSE student
 
 Building practical projects across data, applied AI and software systems while strengthening my foundations in Python and computer science.
 
-## Featured Project
-
-### 🌾 WheatTwin
-
-**Edge computing and Digital Twin architecture for wheat field monitoring.**
-
-A containerized agricultural monitoring prototype that simulates sensor data, transmits readings through MQTT, stores time-series data in InfluxDB and maintains a Digital Twin of a wheat field.
-
-**Key features**
-- Simulated agricultural sensor pipeline
-- MQTT-based data transmission
-- InfluxDB time-series storage
-- Digital Twin state monitoring
-- What-if crop scenario simulation
-- Conceptual edge-device and COA model
-
-**Tech:** `Python` `FastAPI` `React` `MQTT` `InfluxDB` `Docker`
-
 ## Tech & Tools
 
 **Languages:** Python · SQL · JavaScript
